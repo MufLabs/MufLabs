@@ -1,0 +1,1 @@
+{"version":3,"file":"ProviderCandidate.d.ts","sourceRoot":"","sources":["../../../src/routing/types/ProviderCandidate.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAE5C,MAAM,WAAW,iBAAiB;IAE9B;;OAEG;IACH,QAAQ,EAAE,SAAS,CAAC;IAEpB;;OAEG;IACH,KAAK,CAAC,EAAE,MAAM,CAAC;IAEf;;OAEG;IACH,SAAS,CAAC,EAAE,OAAO,CAAC;CAEvB"}

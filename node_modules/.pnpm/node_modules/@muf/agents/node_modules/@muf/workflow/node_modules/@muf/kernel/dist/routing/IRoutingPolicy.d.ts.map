@@ -1,0 +1,1 @@
+{"version":3,"file":"IRoutingPolicy.d.ts","sourceRoot":"","sources":["../../src/routing/IRoutingPolicy.ts"],"names":[],"mappings":"AAAA,OAAO,EAEH,iBAAiB,EACjB,eAAe,EAElB,MAAM,SAAS,CAAC;AAEjB,MAAM,WAAW,cAAc;IAE3B,KAAK,CAED,SAAS,EAAE,iBAAiB,EAAE,EAE9B,QAAQ,CAAC,EAAE,eAAe,GAE3B,iBAAiB,EAAE,CAAC;CAE1B"}

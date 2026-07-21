@@ -1,0 +1,1 @@
+{"version":3,"file":"CapabilityResolver.d.ts","sourceRoot":"","sources":["../../src/routing/CapabilityResolver.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,uBAAuB,CAAC;AAE5D,OAAO,EAEH,iBAAiB,EACjB,eAAe,EAElB,MAAM,SAAS,CAAC;AAEjB,qBAAa,kBAAmB,YAAW,mBAAmB;IAEnD,OAAO,CAEV,SAAS,EAAE,iBAAiB,EAAE,EAE9B,QAAQ,CAAC,EAAE,eAAe,GAE3B,iBAAiB,EAAE;CAoDzB"}

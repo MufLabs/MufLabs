@@ -1,0 +1,1 @@
+{"version":3,"file":"ProviderResolver.d.ts","sourceRoot":"","sources":["../../src/routing/ProviderResolver.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAExD,OAAO,EAEH,iBAAiB,EACjB,eAAe,EAElB,MAAM,SAAS,CAAC;AAEjB,qBAAa,gBAAiB,YAAW,iBAAiB;IAE/C,OAAO,CAEV,SAAS,EAAE,iBAAiB,EAAE,EAE9B,QAAQ,CAAC,EAAE,eAAe,GAE3B,iBAAiB,EAAE;CA+CzB"}

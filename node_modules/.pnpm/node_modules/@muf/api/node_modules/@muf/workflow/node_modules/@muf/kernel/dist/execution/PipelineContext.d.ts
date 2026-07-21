@@ -1,0 +1,7 @@
+import { KernelContext } from "../context";
+import { KernelRequest } from "../types";
+export interface PipelineContext {
+    kernel: KernelContext;
+    request: KernelRequest;
+}
+//# sourceMappingURL=PipelineContext.d.ts.map

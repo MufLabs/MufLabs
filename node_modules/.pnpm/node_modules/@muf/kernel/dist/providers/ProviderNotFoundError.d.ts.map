@@ -1,0 +1,1 @@
+{"version":3,"file":"ProviderNotFoundError.d.ts","sourceRoot":"","sources":["../../src/providers/ProviderNotFoundError.ts"],"names":[],"mappings":"AAAA,qBAAa,qBAAsB,SAAQ,KAAK;IAE5C;;OAEG;IACH,SAAgB,UAAU,CAAC,EAAE,MAAM,CAAC;IAEpC;;OAEG;IACH,SAAgB,kBAAkB,CAAC,EAAE,SAAS,MAAM,EAAE,CAAC;gBAInD,UAAU,CAAC,EAAE,MAAM,EAEnB,kBAAkB,CAAC,EAAE,SAAS,MAAM,EAAE;CAgC7C"}

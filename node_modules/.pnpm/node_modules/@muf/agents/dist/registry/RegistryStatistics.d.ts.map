@@ -1,0 +1,1 @@
+{"version":3,"file":"RegistryStatistics.d.ts","sourceRoot":"","sources":["../../src/registry/RegistryStatistics.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,yBAAyB,CAAC;AAE1D,MAAM,WAAW,kBAAkB;IAE/B,WAAW,EAAE,MAAM,CAAC;IAEpB,YAAY,EAAE,MAAM,EAAE,CAAC;IAEvB,QAAQ,EAAE,MAAM,EAAE,CAAC;IAEnB,MAAM,EAAE,eAAe,EAAE,CAAC;CAE7B"}

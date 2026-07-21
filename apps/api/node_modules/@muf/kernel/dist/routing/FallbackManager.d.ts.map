@@ -1,0 +1,1 @@
+{"version":3,"file":"FallbackManager.d.ts","sourceRoot":"","sources":["../../src/routing/FallbackManager.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AAEtD,OAAO,EAEH,iBAAiB,EAEpB,MAAM,SAAS,CAAC;AAEjB,qBAAa,eAAgB,YAAW,gBAAgB;IAE7C,IAAI,CAEP,OAAO,EAAE,iBAAiB,EAE1B,SAAS,EAAE,iBAAiB,EAAE,GAE/B,iBAAiB,GAAG,SAAS;CAkCnC"}

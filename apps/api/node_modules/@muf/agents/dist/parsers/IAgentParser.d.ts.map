@@ -1,0 +1,1 @@
+{"version":3,"file":"IAgentParser.d.ts","sourceRoot":"","sources":["../../src/parsers/IAgentParser.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,yBAAyB,CAAC;AAC1D,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,MAAM,WAAW,YAAY;IAEzB,KAAK,CAAC,OAAO,EAAE,MAAM,GAAG,OAAO,CAAC,YAAY,CAAC,eAAe,CAAC,CAAC,CAAC;CAElE"}

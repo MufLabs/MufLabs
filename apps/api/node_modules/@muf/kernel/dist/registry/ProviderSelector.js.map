@@ -1,0 +1,1 @@
+{"version":3,"file":"ProviderSelector.js","sourceRoot":"","sources":["../../src/registry/ProviderSelector.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,gBAAgB;IAEzB;;;;;;;;;;;OAWG;IACI,MAAM,CACT,SAA+B;QAG/B,IAAI,SAAS,CAAC,MAAM,KAAK,CAAC,EAAE,CAAC;YAEzB,MAAM,IAAI,KAAK,CACX,uCAAuC,CAC1C,CAAC;QAEN,CAAC;QAED,OAAO,SAAS,CAAC,CAAC,CAAC,CAAC;IAExB,CAAC;CAEJ"}

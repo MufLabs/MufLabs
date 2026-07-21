@@ -1,0 +1,1 @@
+{"version":3,"file":"JsonSerializer.js","sourceRoot":"","sources":["../../../src/providers/common/JsonSerializer.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,cAAc;IAEhB,SAAS,CAEZ,KAAQ;QAIR,OAAO,IAAI,CAAC,SAAS,CAAC,KAAK,CAAC,CAAC;IAEjC,CAAC;IAEM,WAAW,CAEd,IAAY;QAIZ,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAM,CAAC;IAEjC,CAAC;CAEJ"}

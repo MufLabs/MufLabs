@@ -1,0 +1,1 @@
+{"version":3,"file":"IProviderNotFoundError.d.ts","sourceRoot":"","sources":["../../src/providers/IProviderNotFoundError.ts"],"names":[],"mappings":"AAAA,qBAAa,qBAAsB,SAAQ,KAAK;IAE5C;;OAEG;IACH,SAAgB,UAAU,CAAC,EAAE,MAAM,CAAC;IAEpC;;OAEG;IACH,SAAgB,kBAAkB,CAAC,EAAE,SAAS,MAAM,EAAE,CAAC;gBAInD,UAAU,CAAC,EAAE,MAAM,EAEnB,kBAAkB,CAAC,EAAE,SAAS,MAAM,EAAE;CAoC7C"}

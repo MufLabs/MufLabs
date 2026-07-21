@@ -1,0 +1,1 @@
+{"version":3,"file":"IKernel.d.ts","sourceRoot":"","sources":["../../src/core/IKernel.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAC3C,OAAO,EAAE,aAAa,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAEzD,MAAM,WAAW,OAAO;IAEpB,OAAO,CAEH,OAAO,EAAE,aAAa,EAEtB,OAAO,EAAE,aAAa,GAEvB,OAAO,CAAC,cAAc,CAAC,CAAC;CAE9B"}

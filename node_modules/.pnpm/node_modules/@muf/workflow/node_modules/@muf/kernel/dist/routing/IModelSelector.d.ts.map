@@ -1,0 +1,1 @@
+{"version":3,"file":"IModelSelector.d.ts","sourceRoot":"","sources":["../../src/routing/IModelSelector.ts"],"names":[],"mappings":"AAAA,OAAO,EAEH,iBAAiB,EACjB,eAAe,EAElB,MAAM,SAAS,CAAC;AAEjB,OAAO,EAEH,aAAa,EAEhB,MAAM,cAAc,CAAC;AAEtB,MAAM,WAAW,cAAc;IAE3B,MAAM,CAEF,SAAS,EAAE,iBAAiB,EAAE,EAE9B,QAAQ,CAAC,EAAE,eAAe,GAE3B,aAAa,GAAG,SAAS,CAAC;CAEhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"GeminiModels.d.ts","sourceRoot":"","sources":["../../../../src/providers/adapters/Gemini/GeminiModels.ts"],"names":[],"mappings":"AAAA,OAAO,EACH,aAAa,EAChB,MAAM,QAAQ,CAAC;AAMhB,OAAO,EACH,mBAAmB,EACtB,MAAM,uBAAuB,CAAC;AAE/B,qBAAa,YAAY;WAED,QAAQ,CAExB,aAAa,EAAE,mBAAmB,GAEnC,OAAO,CAAC,aAAa,EAAE,CAAC;CAU9B"}

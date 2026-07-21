@@ -1,0 +1,1 @@
+{"version":3,"file":"AnthropicMapper.d.ts","sourceRoot":"","sources":["../../../../src/providers/adapters/Anthropic/AnthropicMapper.ts"],"names":[],"mappings":"AAAA,OAAO,EACH,eAAe,EAClB,MAAM,uBAAuB,CAAC;AAE/B,qBAAa,eAAe;WAEV,iBAAiB,CAE3B,OAAO,EAAE,eAAe,EAExB,KAAK,EAAE,MAAM,GAEd,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC;CAkD7B"}

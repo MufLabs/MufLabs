@@ -1,0 +1,1 @@
+{"version":3,"file":"CommandRegistry.d.ts","sourceRoot":"","sources":["CommandRegistry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAEvD,qBAAa,eAAe;IAExB,OAAO,CAAC,QAAQ,CAAC,QAAQ,CAItB;IAEH,MAAM,CAAC,OAAO,EAAE,eAAe;IAM/B,GAAG;CAMN"}

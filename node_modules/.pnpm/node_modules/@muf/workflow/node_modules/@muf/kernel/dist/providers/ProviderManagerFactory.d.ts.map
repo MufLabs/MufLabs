@@ -1,0 +1,1 @@
+{"version":3,"file":"ProviderManagerFactory.d.ts","sourceRoot":"","sources":["../../src/providers/ProviderManagerFactory.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAIpD,qBAAa,sBAAsB;IAE/B;;OAEG;WACW,MAAM,CAEhB,SAAS,CAAC,EAAE,SAAS,SAAS,EAAE,GAEjC,eAAe;CA0BrB"}

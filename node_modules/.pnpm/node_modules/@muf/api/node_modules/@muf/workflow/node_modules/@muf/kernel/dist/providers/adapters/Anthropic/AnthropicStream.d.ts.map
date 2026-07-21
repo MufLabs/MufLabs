@@ -1,0 +1,1 @@
+{"version":3,"file":"AnthropicStream.d.ts","sourceRoot":"","sources":["../../../../src/providers/adapters/Anthropic/AnthropicStream.ts"],"names":[],"mappings":"AAAA,OAAO,EAEH,cAAc,EACd,eAAe,EAElB,MAAM,cAAc,CAAC;AAEtB,qBAAa,eAET,YAAW,eAAe;IAEZ,MAAM,CAEhB,QAAQ,EAAE,QAAQ,GAEnB,aAAa,CAAC,cAAc,CAAC;CAqInC"}

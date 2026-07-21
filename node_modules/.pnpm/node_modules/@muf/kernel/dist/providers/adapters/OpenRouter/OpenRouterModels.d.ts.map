@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenRouterModels.d.ts","sourceRoot":"","sources":["../../../../src/providers/adapters/OpenRouter/OpenRouterModels.ts"],"names":[],"mappings":"AAAA,OAAO,EACH,aAAa,EAChB,MAAM,QAAQ,CAAC;AAMhB,OAAO,EACH,uBAAuB,EAC1B,MAAM,2BAA2B,CAAC;AAEnC,qBAAa,gBAAgB;WAEL,QAAQ,CAExB,aAAa,EAAE,uBAAuB,GAEvC,OAAO,CAAC,aAAa,EAAE,CAAC;CAU9B"}

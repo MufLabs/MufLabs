@@ -1,0 +1,1 @@
+{"version":3,"file":"ManagerOptions.d.ts","sourceRoot":"","sources":["../../src/manager/ManagerOptions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,YAAY,CAAC;AAE5C,MAAM,WAAW,cAAc;IAE3B,SAAS,CAAC,EAAE,MAAM,CAAC;IAEnB,QAAQ,CAAC,EAAE,OAAO,CAAC;IAEnB,OAAO,CAAC,EAAE,cAAc,CAAC;CAE5B"}

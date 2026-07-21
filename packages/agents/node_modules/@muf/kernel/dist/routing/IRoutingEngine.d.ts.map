@@ -1,0 +1,1 @@
+{"version":3,"file":"IRoutingEngine.d.ts","sourceRoot":"","sources":["../../src/routing/IRoutingEngine.ts"],"names":[],"mappings":"AAAA,OAAO,EAEH,cAAc,EACd,aAAa,EAEhB,MAAM,SAAS,CAAC;AAEjB,MAAM,WAAW,cAAc;IAE3B,KAAK,CAED,OAAO,EAAE,cAAc,GAExB,OAAO,CAAC,aAAa,CAAC,CAAC;CAE7B"}

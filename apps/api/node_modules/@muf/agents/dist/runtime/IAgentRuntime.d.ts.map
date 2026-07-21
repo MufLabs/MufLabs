@@ -1,0 +1,1 @@
+{"version":3,"file":"IAgentRuntime.d.ts","sourceRoot":"","sources":["../../src/runtime/IAgentRuntime.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,sBAAsB,CAAC;AACpD,OAAO,EAAE,YAAY,EAAE,MAAM,UAAU,CAAC;AACxC,OAAO,EAAE,aAAa,EAAE,MAAM,kBAAkB,CAAC;AAEjD,MAAM,WAAW,aAAa;IAE1B,OAAO,CAEH,OAAO,EAAE,YAAY,EAErB,OAAO,EAAE,YAAY,GAEtB,OAAO,CAAC,aAAa,CAAC,CAAC;CAE7B"}

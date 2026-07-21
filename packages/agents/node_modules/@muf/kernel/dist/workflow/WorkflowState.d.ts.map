@@ -1,0 +1,1 @@
+{"version":3,"file":"WorkflowState.d.ts","sourceRoot":"","sources":["../../src/workflow/WorkflowState.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAEvD,MAAM,WAAW,aAAa;IAE1B;;OAEG;IACH,MAAM,EAAE,eAAe,GAAG,IAAI,CAAC;IAE/B;;OAEG;IACH,SAAS,CAAC,EAAE,IAAI,CAAC;IAEjB;;OAEG;IACH,WAAW,CAAC,EAAE,IAAI,CAAC;CAEtB"}

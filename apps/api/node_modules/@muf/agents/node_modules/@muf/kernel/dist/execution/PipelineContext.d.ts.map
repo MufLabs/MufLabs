@@ -1,0 +1,1 @@
+{"version":3,"file":"PipelineContext.d.ts","sourceRoot":"","sources":["../../src/execution/PipelineContext.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAC3C,OAAO,EAAE,aAAa,EAAE,MAAM,UAAU,CAAC;AAEzC,MAAM,WAAW,eAAe;IAE5B,MAAM,EAAE,aAAa,CAAC;IAEtB,OAAO,EAAE,aAAa,CAAC;CAE1B"}

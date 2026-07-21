@@ -1,0 +1,1 @@
+{"version":3,"file":"StreamingClient.d.ts","sourceRoot":"","sources":["../../../src/providers/common/StreamingClient.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,cAAc;IAE3B,EAAE,CAAC,EAAE,MAAM,CAAC;IAEZ,KAAK,CAAC,EAAE,MAAM,CAAC;IAEf,IAAI,EAAE,MAAM,CAAC;CAEhB;AAED,MAAM,WAAW,eAAe;IAE5B,MAAM,CAEF,QAAQ,EAAE,QAAQ,GAEnB,aAAa,CAAC,cAAc,CAAC,CAAC;CAEpC"}

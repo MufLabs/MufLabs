@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenAICompatibleStream.d.ts","sourceRoot":"","sources":["../../../../src/providers/adapters/OpenAICompatible/OpenAICompatibleStream.ts"],"names":[],"mappings":"AAAA,OAAO,EAEH,cAAc,EACd,eAAe,EAElB,MAAM,cAAc,CAAC;AAEtB,qBAAa,sBAET,YAAW,eAAe;IAEZ,MAAM,CAEhB,QAAQ,EAAE,QAAQ,GAEnB,aAAa,CAAC,cAAc,CAAC;CAwKnC"}

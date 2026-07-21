@@ -1,0 +1,1 @@
+{"version":3,"file":"IAgentLoader.d.ts","sourceRoot":"","sources":["../../src/loaders/IAgentLoader.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,yBAAyB,CAAC;AAE1D,MAAM,WAAW,YAAY;IAEzB,IAAI,IAAI,OAAO,CAAC,eAAe,EAAE,CAAC,CAAC;CAEtC"}
