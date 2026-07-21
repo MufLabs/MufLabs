@@ -1,0 +1,49 @@
+/**
+ * Base implementation for every executable agent.
+ *
+ * Concrete agents should inherit from this class.
+ * The runtime is responsible for instantiating them.
+ */
+export class Agent {
+    definition;
+    constructor(definition) {
+        this.definition = Object.freeze({ ...definition });
+    }
+    /**
+     * Agent identifier.
+     */
+    get id() {
+        return this.definition.id;
+    }
+    /**
+     * Human readable name.
+     */
+    get name() {
+        return this.definition.name;
+    }
+    /**
+     * Indicates whether the agent is enabled.
+     */
+    get enabled() {
+        return this.definition.enabled;
+    }
+    /**
+     * Returns true if the agent supports the requested capability.
+     */
+    supports(capability) {
+        return this.definition.capabilities.some(c => String(c).toLowerCase() === capability.toLowerCase());
+    }
+    /**
+     * Optional initialization hook.
+     */
+    async initialize() {
+        // Default implementation intentionally left blank.
+    }
+    /**
+     * Optional cleanup hook.
+     */
+    async dispose() {
+        // Default implementation intentionally left blank.
+    }
+}
+//# sourceMappingURL=Agent.js.map

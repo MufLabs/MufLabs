@@ -1,0 +1,1 @@
+{"version":3,"file":"AgentTypes.d.ts","sourceRoot":"","sources":["../../src/types/AgentTypes.ts"],"names":[],"mappings":"AAAA;;;;;GAKG;AAEH,MAAM,WAAW,YAAY;IACzB;;OAEG;IACH,OAAO,EAAE,MAAM,CAAC;IAEhB;;OAEG;IACH,MAAM,EAAE,MAAM,CAAC;CAClB;AAED,MAAM,WAAW,aAAa;IAC1B;;OAEG;IACH,OAAO,EAAE,OAAO,CAAC;IAEjB;;OAEG;IACH,MAAM,EAAE,MAAM,CAAC;CAClB"}

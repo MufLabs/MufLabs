@@ -1,0 +1,1 @@
+{"version":3,"file":"IWorkflow.d.ts","sourceRoot":"","sources":["../../src/interfaces/IWorkflow.ts"],"names":[],"mappings":"AAAA,OAAO,EACH,eAAe,EACf,cAAc,EACjB,MAAM,wBAAwB,CAAC;AAEhC,OAAO,EAAE,aAAa,EAAE,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,SAAS;IAEtB,OAAO,CACH,OAAO,EAAE,aAAa,EACtB,OAAO,EAAE,eAAe,GACzB,OAAO,CAAC,cAAc,CAAC,CAAC;CAE9B"}

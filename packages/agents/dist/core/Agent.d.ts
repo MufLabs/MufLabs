@@ -1,0 +1,45 @@
+import { AgentDefinition } from "./AgentDefinition";
+import { AgentContext } from "./AgentContext";
+import { AgentResult } from "./AgentResult";
+import { IAgent } from "./IAgent";
+/**
+ * Base implementation for every executable agent.
+ *
+ * Concrete agents should inherit from this class.
+ * The runtime is responsible for instantiating them.
+ */
+export declare abstract class Agent implements IAgent {
+    readonly definition: AgentDefinition;
+    protected constructor(definition: AgentDefinition);
+    /**
+     * Agent identifier.
+     */
+    get id(): string;
+    /**
+     * Human readable name.
+     */
+    get name(): string;
+    /**
+     * Indicates whether the agent is enabled.
+     */
+    get enabled(): boolean;
+    /**
+     * Returns true if the agent supports the requested capability.
+     */
+    supports(capability: string): boolean;
+    /**
+     * Optional initialization hook.
+     */
+    initialize(): Promise<void>;
+    /**
+     * Optional cleanup hook.
+     */
+    dispose(): Promise<void>;
+    /**
+     * Executes the agent.
+     *
+     * Every concrete agent must implement this method.
+     */
+    abstract execute(context: AgentContext, input: string): Promise<AgentResult>;
+}
+//# sourceMappingURL=Agent.d.ts.map

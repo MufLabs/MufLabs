@@ -1,0 +1,1 @@
+{"version":3,"file":"AgentMetadata.d.ts","sourceRoot":"","sources":["../../src/types/AgentMetadata.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAEzD,MAAM,WAAW,aAAa;IAE1B,EAAE,EAAE,MAAM,CAAC;IAEX,IAAI,EAAE,MAAM,CAAC;IAEb,WAAW,EAAE,MAAM,CAAC;IAEpB,OAAO,CAAC,EAAE,MAAM,CAAC;IAEjB,MAAM,CAAC,EAAE,MAAM,CAAC;IAEhB,YAAY,EAAE,eAAe,EAAE,CAAC;CAEnC"}

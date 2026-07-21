@@ -1,0 +1,1 @@
+{"version":3,"file":"RegistryInspector.d.ts","sourceRoot":"","sources":["../../src/registry/RegistryInspector.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAChD,OAAO,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAE1D,qBAAa,iBAAiB;IAItB,OAAO,CAAC,QAAQ,CAAC,QAAQ;gBAAR,QAAQ,EAAE,aAAa;IAIrC,OAAO,IAAI,kBAAkB;CAkDvC"}

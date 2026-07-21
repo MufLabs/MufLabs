@@ -1,0 +1,1 @@
+{"version":3,"file":"OllamaModels.js","sourceRoot":"","sources":["../../../../src/providers/adapters/Ollama/OllamaModels.ts"],"names":[],"mappings":"AAIA,OAAO,EACH,sBAAsB,EACzB,MAAM,qBAAqB,CAAC;AAM7B,MAAM,OAAO,YAAY;IAEd,MAAM,CAAC,KAAK,CAAC,QAAQ,CAExB,aAAkC;QAIlC,OAAO,sBAAsB,CAAC,QAAQ,CAElC,aAAa,CAEhB,CAAC;IAEN,CAAC;CAEJ"}

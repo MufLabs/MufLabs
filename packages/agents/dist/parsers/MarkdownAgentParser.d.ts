@@ -1,0 +1,9 @@
+import { AgentDefinition } from "../core";
+import { ParserResult } from "./ParserResult";
+import { IAgentParser } from "./IAgentParser";
+export declare class MarkdownAgentParser implements IAgentParser {
+    private readonly frontMatter;
+    private readonly promptExtractor;
+    parse(content: string): Promise<ParserResult<AgentDefinition>>;
+}
+//# sourceMappingURL=MarkdownAgentParser.d.ts.map

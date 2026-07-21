@@ -1,0 +1,45 @@
+import { readdir, readFile } from "node:fs/promises";
+import { join } from "node:path";
+import { MarkdownAgentParser } from "../parsers";
+import { AgentFileLocator } from "./AgentFileLocator";
+export class MarkdownAgentLoader {
+    locator;
+    parser = new MarkdownAgentParser();
+    constructor(locator = new AgentFileLocator()) {
+        this.locator = locator;
+    }
+    async load() {
+        const folder = this.locator.getAgentsDirectory();
+        const files = (await readdir(folder))
+            .filter(file => file.endsWith(".agent.md"))
+            .sort((a, b) => a.localeCompare(b));
+        const definitions = [];
+        const ids = new Set();
+        for (const file of files) {
+            try {
+                const content = await readFile(join(folder, file), "utf8");
+                const result = await this.parser.parse(content);
+                if (!result.success || !result.value) {
+                    console.warn(`[MarkdownAgentLoader] Unable to parse '${file}'.`);
+                    continue;
+                }
+                const definition = result.value;
+                if (!definition.id) {
+                    console.warn(`[MarkdownAgentLoader] '${file}' has no id.`);
+                    continue;
+                }
+                if (ids.has(definition.id)) {
+                    console.warn(`[MarkdownAgentLoader] Duplicate agent id '${definition.id}'.`);
+                    continue;
+                }
+                ids.add(definition.id);
+                definitions.push(definition);
+            }
+            catch (error) {
+                console.error(`[MarkdownAgentLoader] Failed to load '${file}'.`, error);
+            }
+        }
+        return definitions;
+    }
+}
+//# sourceMappingURL=MarkdownAgentLoader.js.map

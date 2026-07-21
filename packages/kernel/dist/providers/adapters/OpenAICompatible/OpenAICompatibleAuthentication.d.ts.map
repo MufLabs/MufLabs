@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenAICompatibleAuthentication.d.ts","sourceRoot":"","sources":["../../../../src/providers/adapters/OpenAICompatible/OpenAICompatibleAuthentication.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,cAAc,CAAC;AAE9C,OAAO,EAAE,6BAA6B,EAAE,MAAM,iCAAiC,CAAC;AAEhF,qBAAa,8BAA8B;WAEzB,MAAM,CAEhB,aAAa,EAAE,6BAA6B,GAE7C,cAAc;CAkBpB"}
