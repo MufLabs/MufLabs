@@ -4,6 +4,7 @@ import { PipelineResult } from "./PipelineResult";
 import { IProviderManager } from "../providers";
 export declare class ExecutionPipeline implements IExecutionPipeline {
     private readonly providerManager;
+    private readonly promptBuilder;
     constructor(providerManager: IProviderManager);
     execute(context: PipelineContext): Promise<PipelineResult>;
 }

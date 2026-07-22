@@ -1,16 +1,13 @@
+import { PromptBuilder } from "./PromptBuilder";
 export class ExecutionPipeline {
     providerManager;
+    promptBuilder = new PromptBuilder();
     constructor(providerManager) {
         this.providerManager = providerManager;
     }
     async execute(context) {
-        const providerResponse = await this.providerManager.execute({
-            prompt: context.request.prompt,
-            systemPrompt: context.request.systemPrompt,
-            model: context.request.model,
-            temperature: context.request.temperature,
-            maxTokens: context.request.maxTokens
-        });
+        const providerRequest = this.promptBuilder.build(context.request);
+        const providerResponse = await this.providerManager.execute(providerRequest);
         return {
             response: {
                 success: providerResponse.success,

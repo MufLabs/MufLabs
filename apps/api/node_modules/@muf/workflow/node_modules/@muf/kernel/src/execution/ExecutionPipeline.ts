@@ -2,12 +2,17 @@ import { IExecutionPipeline } from "./IExecutionPipeline";
 
 import { PipelineContext } from "./PipelineContext";
 import { PipelineResult } from "./PipelineResult";
+import { PromptBuilder } from "./PromptBuilder";
 
 import {
     IProviderManager
 } from "../providers";
 
 export class ExecutionPipeline implements IExecutionPipeline {
+
+    private readonly promptBuilder =
+
+        new PromptBuilder();
 
     constructor(
 
@@ -21,19 +26,21 @@ export class ExecutionPipeline implements IExecutionPipeline {
 
     ): Promise<PipelineResult> {
 
-        const providerResponse = await this.providerManager.execute({
+        const providerRequest =
 
-            prompt: context.request.prompt,
+            this.promptBuilder.build(
 
-            systemPrompt: context.request.systemPrompt,
+                context.request
 
-            model: context.request.model,
+            );
 
-            temperature: context.request.temperature,
+        const providerResponse =
 
-            maxTokens: context.request.maxTokens
+            await this.providerManager.execute(
 
-        });
+                providerRequest
+
+            );
 
         return {
 
